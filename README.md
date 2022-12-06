@@ -1,17 +1,14 @@
 # Praktikum 8
 ## Tugas Pertemuan 12 - OOP
 
-![Gambar 1](img/ss1.jpeg)
+![P 12](https://user-images.githubusercontent.com/115516624/205791453-b3adbd33-4171-4beb-96a9-00b40bfb8fbb.jpeg)
+
 
 ### A. Flowchart
 
-![Gambar 2](img/flowchart.jpeg)
+![F 12](https://user-images.githubusercontent.com/115516624/205791364-3f185ea1-f6ec-46e1-8d8a-da6c47d9b64f.jpeg)
 
-### B. Diagram Class
-
-![Gambar 3](img/ss2.png)
-
-### C. Program
+### B. Program
 
 ```bash
 import os
@@ -269,4 +266,4 @@ while Loop:
             Loop = False
     ```
   
-# SEKIAN
+# Terima Kasih
