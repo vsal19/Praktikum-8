@@ -1,20 +1,22 @@
 # Praktikum 8
 ## Tugas Pertemuan 12 - OOP
 
-Nama  : Muhamad Fiasal ilham
-NIM  : 312210322
-Kelas  : TI.22.A3
+### Nama  : Muhamad Faisal ilham
 
-### A. Tugas Praktikum
+### NIM  : 312210322
+
+### Kelas  : TI.22.A3
+
+## A. Tugas Praktikum
 
 ![P 12](https://user-images.githubusercontent.com/115516624/205791453-b3adbd33-4171-4beb-96a9-00b40bfb8fbb.jpeg)
 
 
-### B. Flowchart
+## B. Flowchart
 
 ![F 12](https://user-images.githubusercontent.com/115516624/205791364-3f185ea1-f6ec-46e1-8d8a-da6c47d9b64f.jpeg)
 
-### C. Program
+## C. Program
 
 ```bash
 import os
@@ -113,7 +115,7 @@ while Loop:
         Loop = False
 ```
 
-### D. Penjelasan
+## D. Penjelasan
 
 1. Untuk memanggil fungsi dengan nama "os".
 
@@ -272,4 +274,4 @@ while Loop:
             Loop = False
     ```
   
-# Terima Kasih
+## Terima Kasih
