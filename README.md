@@ -1,14 +1,20 @@
 # Praktikum 8
 ## Tugas Pertemuan 12 - OOP
 
+Nama  : Muhamad Fiasal ilham
+NIM  : 312210322
+Kelas  : TI.22.A3
+
+### A. Tugas Praktikum
+
 ![P 12](https://user-images.githubusercontent.com/115516624/205791453-b3adbd33-4171-4beb-96a9-00b40bfb8fbb.jpeg)
 
 
-### A. Flowchart
+### B. Flowchart
 
 ![F 12](https://user-images.githubusercontent.com/115516624/205791364-3f185ea1-f6ec-46e1-8d8a-da6c47d9b64f.jpeg)
 
-### B. Program
+### C. Program
 
 ```bash
 import os
